@@ -1,1 +1,1 @@
-"D:\_Applications\SkyDocs.exe" build
+"D:\_Applications\SkyDocs.exe" build -d "D:\DevZone\_Documentation\_SkyDoc\SKYDOCS_CrypticRADPACK\"

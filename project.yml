@@ -4,5 +4,5 @@ project_url: https://www.cryptic.co.uk/
 project_version: 12.1.20
 
 default_language: en
-lunr_search: true
+lunr_search: false
 default_order_alphabetical: true
