@@ -1,0 +1,8 @@
+project_name: Cryptic RADPACK - Documentation
+project_description: Unleash your Xojo Project with our RADPack
+project_url: https://www.cryptic.co.uk/
+project_version: 12.1.20
+
+default_language: en
+lunr_search: true
+default_order_alphabetical: true
